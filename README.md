@@ -8,8 +8,8 @@ Complejidad del algoritmo: O(2^n), donde "n" es el número de celdas en el laber
 
 ## Construido con 🛠️
 
-* Google Colab 💻
-* Python 🐍
+* [Google Colab](https://colab.research.google.com) 💻
+* [Python](https://www.python.org) 🐍
 
 ## Autores ✒️
 
