@@ -13,6 +13,4 @@ Complejidad del algoritmo: O(2^n), donde "n" es el número de celdas en el laber
 
 ## Autores ✒️
 
-
-
 * **Josh Trejo** - *Programación* - [Josh Trejo](https://github.com/jorgejoshuatt)
